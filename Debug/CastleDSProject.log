@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Battle.cpp
+F:\Junior 1\Data Structure\CMPN102Project_Code_F2020\CMPN102Project_Code_F2020\ArrayStack.h(104,2): warning C4138: '*/' found outside of comment
+F:\Junior 1\Data Structure\CMPN102Project_Code_F2020\CMPN102Project_Code_F2020\Battle.cpp(336,11): warning C4101: 'F': unreferenced local variable
+F:\Junior 1\Data Structure\CMPN102Project_Code_F2020\CMPN102Project_Code_F2020\Battle.cpp(542,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CastleDSProject.vcxproj -> F:\Junior 1\Data Structure\CMPN102Project_Code_F2020\CMPN102Project_Code_F2020\Debug\CastleDSProject.exe
